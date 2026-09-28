@@ -14,3 +14,9 @@ built-in objects package
 	line
 	point
 	cube
+
+
+struct screen
+    scan mode
+    ...
+    ...
