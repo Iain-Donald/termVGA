@@ -1,0 +1,16 @@
+***
+***
+***
+
+
+
+// todo
+
+pin state status bar. each pin has its own stream display, making fast data visible. Just brightness streaming along a graph, or level. 
+
+built-in objects package
+	rect
+	ellipse
+	line
+	point
+	cube

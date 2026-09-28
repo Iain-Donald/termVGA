@@ -1,0 +1,25 @@
+
+VGA/DE-15
+	RGBHV pins
+		1
+		2
+        3
+        13
+        14
+EGA/DE-9
+    RGBHV pins
+        1
+        2
+        3
+        4
+        5
+    RGB{HV} return/ground
+        6
+        7
+        8
+        9
+        9
+
+
+
+
