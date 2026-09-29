@@ -1,0 +1,2 @@
+zig cc -Wall -Wextra main.c -o termvga && ./termvga	
+
